@@ -2,7 +2,7 @@
 #### I am python dev
 I'm developing artificial intelligence
 
-Skills: PYTHON / C / C++/ HTML / CSS/JavaScrip
+Skills: PYTHON / C / C++/ HTML / CSS/JavaScript
 
 - 🔭 I’m currently working on medical tumor detection 
 - 📫 How to reach me: cxsred@proton.me 
